@@ -1,0 +1,3 @@
+Hardware, OS, and Networking
+Hardware Essentials, Network Essentials, Networking Management, Unix/Linux Basics
+AWS services - EC2, S3, RDS and IAM
